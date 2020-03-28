@@ -2,7 +2,10 @@
 """
 Created on Thu Mar 26 16:23:42 2020
 
-sort 2D: https://stackoverflow.com/questions/43386432/how-to-get-indexes-of-k-maximum-values-from-a-numpy-multidimensional-array
+##Basic understanding: several links but found wikipedia somehow good along with this one 
+(https://www.learnopencv.com/hough-transform-with-opencv-c-python/)
+##houghLines: https://alyssaq.github.io/2014/understanding-hough-transform/
+##sort 2D: https://stackoverflow.com/questions/43386432/how-to-get-indexes-of-k-maximum-values-from-a-numpy-multidimensional-array
 
 @author: hosna
 """
